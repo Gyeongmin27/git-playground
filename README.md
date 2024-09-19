@@ -2,4 +2,4 @@
 
 Playground for git
 
-Let's git it!
+깃으로 놀아보자!
